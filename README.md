@@ -24,9 +24,3 @@ The app aims to provide an intuitive and user-friendly interface for monitoring 
 
 4. **Balance Calculation**
    - Automatically calculates the financial balance based on recorded transactions, providing a clear view of the current financial situation.
-
-#### How to Use
-
-1. Clone the repository: `git clone https://github.com/lucasgearhead/Kotlin-Finance-App.git`.
-2. Open the project in Android Studio.
-3. Build and run the app on an Android device or emulator.
